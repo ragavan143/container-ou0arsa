@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ragavan143",
+  "repo": "container-ou0arsa",
+  "name": "ragavan143",
+  "email": "raghavenderharish4@gmail.com",
+}
